@@ -1,6 +1,6 @@
 # Chat Application — Test Plan & Test Cases
 
-Test plan and IEEE 829-style test cases for the Chat Application across Web, Android, and iOS.
+Test plan and test cases for the Chat Application across Web, Android, and iOS.
 
 ## Scope
 In scope: text messaging, attachments, media, documents, previews, message actions, chat/contact actions, status/presence, discovery, compatibility, security, performance, accessibility.
